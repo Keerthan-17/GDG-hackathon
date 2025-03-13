@@ -1,1 +1,1 @@
-Welcome to GDG - Hackathon Idea MVP repo.
+Welcome to GDG - Hackathon Idea MVP repository.
